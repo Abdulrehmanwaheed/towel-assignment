@@ -1,0 +1,63 @@
+.navbar{
+    background-color: #d24dff !important;
+}
+.nav-link{
+    font-weight: bold;
+    font-size: 20px !important;
+} 
+    
+
+.card{
+    margin: 30px !important;
+    border-radius:  5px ;
+    width: 200px !important;
+    border: 5px solid black;
+    
+}
+.row2{
+    background-color:#2F4F4F ;
+    width: 1069.6px;
+    height: 200px;
+}
+.fac{
+    display:inline;
+}
+body{
+ 
+    background-color:#660033 !important;
+}
+.my{
+    list-style-type: none;
+}
+
+.footer{
+width: 100%;
+height: 200px;
+text-align: center;
+background-color: #2F4F4F;
+
+
+}
+.card1{
+    width: 300px;
+    display :flex;
+    box-shadow: 2px 3px 4px black !important;
+    padding: 10px !important;
+    margin: 10px !important;
+    width: 300px !important;
+    height: 70px !important;
+    justify-content: center !important;
+    background-color: white !important;
+    align-items: center;
+
+}
+.fa fa-truck{
+    font-size: 500px !important;
+}
+.maincard{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    width: 500px !important;
+}
